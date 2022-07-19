@@ -4,7 +4,7 @@ import mysql.connector
 banco = mysql.connector.connect(
    host= 'localhost',
     user='root',
-    passwd='2403120818',
+    passwd='',
     database='cadastro'
 )
 
